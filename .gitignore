@@ -1,1 +1,5 @@
-/demo/scene.ply
+node_modules
+dist
+public/demo/scene.ply
+*.local
+.DS_Store
